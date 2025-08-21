@@ -1,4 +1,5 @@
 a file for colours
-red
+red orange yellow
 green
-blue
+blue skyblue
+brown
